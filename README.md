@@ -107,7 +107,7 @@
 
 ## 프로젝트 결과 소개
 - ### 홈페이지 URL
-  [나라가 임하는 교회 (http://heaveniscoming.org)](http://actswoori.org "나라가 임하는 교회")
+  [나라가 임하는 교회 (http://heaveniscoming.org)](http://heaveniscoming.org "나라가 임하는 교회")
 
 <br>
 
