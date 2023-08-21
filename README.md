@@ -101,9 +101,7 @@
 <a href="https://zoom.com" target="_blank">
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white" alt="Zoom">
 </a>
-<a href="https://discord.com" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
-</a>
+
 
 ###
 <br><br><br>
